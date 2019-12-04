@@ -14,11 +14,7 @@ class App extends Component{
     return(
       <div className="demo-big-content">
       <Layout>
-        <Header className="header-color" title={<Link style={{textDecoration: 'none', color: 'white'}} to="/">
-        Home
-        </Link>} scroll>
 
-        </Header>
           <Drawer title={<Link style={{textDecoration: 'none', color: 'black'} } to="/" onClick={() => this.hideToggle()}>
           Home
           </Link>}>

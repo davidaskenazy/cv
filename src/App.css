@@ -60,7 +60,7 @@ height: 100%;
   border-top : 5px dotted white;
   width: 50%;
   margin: auto;
-  
+
 }
 
 .banner-text hr{
@@ -90,4 +90,7 @@ height: 100%;
 
 .progressbar.bar.bar1 {
     background-color: #ef5350;
+}
+.material-icons{
+  color:black;
 }
